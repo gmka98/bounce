@@ -8,7 +8,7 @@ This project is a fun and interactive game where players can control a bouncing 
 
 ## Demo
 
-You can play the game live at [Game Demo](#) (Replace with the deployed game link).
+You can play the game live at [(https://bounce-eta.vercel.app/)](#) (Replace with the deployed game link).
 
 ## Features
 
@@ -25,13 +25,13 @@ You can play the game live at [Game Demo](#) (Replace with the deployed game lin
 
 ## Deployment
 
-The game is deployed using Vercel. You can access it [here](#) (Replace with the deployed Vercel link).
+The game is deployed using Vercel. You can access it [bounce-5o0llm9nj-gmka98s-projects.vercel.app](#) (Replace with the deployed Vercel link).
 
 ## Local Development
 
 If you want to run the game locally:
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone [https://github.com/gmka98/bounce.git]`
 2. Open `index.html` in your preferred web browser.
 
 ## Technologies Used
